@@ -36,3 +36,11 @@ section {
 #profile-img.active {
   transform: scale(1);
 }
+/* .navbar-brand {
+  transition: transform 0.3s ease, opacity 0.3s ease;
+  cursor: pointer;
+}
+.navbar-brand:hover{
+  color: black !important;
+  transform: scale(1.5);
+} */
